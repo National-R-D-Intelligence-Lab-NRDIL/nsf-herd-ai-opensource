@@ -1,4 +1,3 @@
-# nsf-herd-ai-opensource
 # HERD AI Assistant - Open Source R&D
 
 ### Project Goal
