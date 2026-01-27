@@ -5,11 +5,20 @@ from openai import OpenAI
 import re
 
 # --- CONFIGURATION ---
+# client = OpenAI(
+#     base_url='http://localhost:11434/v1',
+#     api_key='ollama'
+# )
+# MODEL_NAME = "qwen2.5-coder" 
+
 client = OpenAI(
-    base_url='http://localhost:11434/v1',
-    api_key='ollama'
+    base_url='http://10.146.11.55:8001/v1', # Server IP
+    api_key='EMPTY'
 )
-MODEL_NAME = "qwen2.5-coder" 
+
+# MUST match the --model flag used on the server exactly
+MODEL_NAME = "Qwen/Qwen2.5-Coder-32B-Instruct-AWQ"
+
 DB_PATH = "herd.db"
 CONFIG_PATH = "config.yml"
 
@@ -59,8 +68,32 @@ class LocalAgent:
         return list(set(relevant))[:50]
 
     def _clean_sql(self, text):
+        """
+        DeepSeek Specific Cleaner:
+        It aggressively extracts SQL from markdown blocks or messy text.
+        """
+        print(f"   (Raw Model Output: {text[:60]}...)") # Debug print
+        
+        # Strategy 1: Look for Markdown Code Blocks (```sql ... ```)
+        # DeepSeek almost always uses these.
+        match = re.search(r'```sql\s*(.*?)\s*```', text, re.IGNORECASE | re.DOTALL)
+        if match:
+            clean = match.group(1).strip()
+            return clean
+
+        # Strategy 2: Look for standard SQL start/end if markdown is missing
         match = re.search(r'(SELECT.*?;)', text, re.IGNORECASE | re.DOTALL)
-        if match: return match.group(1).replace('\n', ' ').strip()
+        if match:
+            clean = match.group(1).replace('\n', ' ').strip()
+            return clean
+            
+        # Strategy 3: Panic cleanup - remove common conversational starters
+        # If it starts with "Here is", "Sure", etc., try to strip them.
+        lines = text.split('\n')
+        sql_lines = [l for l in lines if l.strip().upper().startswith(('SELECT', 'FROM', 'WHERE', 'AND', 'ORDER', 'LIMIT', 'UNION', '--'))]
+        if sql_lines:
+            return " ".join(sql_lines)
+
         return text.strip()
 
     def generate_sql(self, question):
@@ -101,6 +134,7 @@ class LocalAgent:
         2. Always SELECT `name` to verify results.
         3. If no year is specified, default to: WHERE year = 2024.
         4. Return ONLY valid SQL ending in ;
+        5. Output ONLY the SQL code. No explanation.
         """
         
         response = client.chat.completions.create(
