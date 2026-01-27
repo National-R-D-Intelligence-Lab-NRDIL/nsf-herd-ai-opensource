@@ -25,7 +25,7 @@ The HERD survey collects data on R&D expenditures at U.S. colleges and universit
 2. **Clone this repository**:
    ```bash
    git clone <your-repo-url>
-   cd herd_mcp
+   cd herd_ai
    ```
 
 3. **Install dependencies**:
@@ -45,14 +45,15 @@ The HERD survey collects data on R&D expenditures at U.S. colleges and universit
    uv run etl.py
    ```
 
-3. **Run the MCP server** (for testing):
+3. **Run the MCP server** (for testing / tool access):
    ```bash
    uv run server.py
    ```
-4. **Run the MCP server** (for testing):
+
+4. **Run the local natural-language agent** (uses Ollama by default):
    ```bash
    uv run local_agent.py
-   ```   
+   ```
 
 ## 📁 Project Structure
 
@@ -82,10 +83,10 @@ The MCP server provides a `query_herd_data` tool that accepts SQL queries:
 
 ```python
 # Example query
-SELECT name, state, year, total_rd 
-FROM institutions 
-WHERE state = 'CA' AND year = 2023 
-ORDER BY total_rd DESC 
+SELECT name, state, year, total_rd
+FROM institutions
+WHERE state = 'CA' AND year = 2023
+ORDER BY total_rd DESC
 LIMIT 10
 ```
 
@@ -101,6 +102,10 @@ uv run local_agent.py
 
 Then ask questions in natural language, and the agent will convert them to SQL queries.
 
+## 🧪 Open Source R&D Goal
+
+Replicate the functionality of a Gemini-based MVP using open source models (Llama, Mistral, etc.) to evaluate performance and privacy trade-offs. This repo already includes a local agent path (`local_agent.py`) and can evolve to support additional runtimes (e.g., vLLM / HuggingFace).
+
 ## 📝 Notes
 
 - Money columns are stored in **thousands** of dollars
@@ -109,7 +114,17 @@ Then ask questions in natural language, and the agent will convert them to SQL q
 
 ## 🤝 Contributing
 
-Feel free to open issues or submit pull requests!
+1. **Local setup**
+   - Ensure `.streamlit/secrets.toml` is ignored (it is in `.gitignore`).
+   - Use your own API keys / local model endpoints for testing.
+2. **Development**
+   - Always create a new branch for work: `git checkout -b feature-name`
+   - Do NOT push directly to `main`.
+3. **Review process**
+   - Push your branch to GitHub.
+   - Open a Pull Request (PR).
+   - Tag @Kalyan8358 for review.
+   - Do NOT merge the PR until it has been reviewed and discussed.
 
 ## 📄 License
 
