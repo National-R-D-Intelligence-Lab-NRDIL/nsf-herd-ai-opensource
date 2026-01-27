@@ -1,88 +1,150 @@
 import sqlite3
 import pandas as pd
+import yaml
 from openai import OpenAI
+import re
 
 # --- CONFIGURATION ---
-# Point to Ollama instead of OpenAI
 client = OpenAI(
     base_url='http://localhost:11434/v1',
-    api_key='ollama'  # Required but ignored by Ollama
+    api_key='ollama'
 )
-
-# Choose your local model
 MODEL_NAME = "qwen2.5-coder" 
 DB_PATH = "herd.db"
+CONFIG_PATH = "config.yml"
 
-def get_schema():
-    conn = sqlite3.connect(DB_PATH)
-    try:
-        dd = pd.read_sql("SELECT column_name, description FROM data_dictionary", conn)
-        dd_text = dd.to_string(index=False)
-    except:
-        dd_text = "No data dictionary found."
+class LocalAgent:
+    def __init__(self):
+        self.config = self._load_config()
+        self.all_columns = self._get_all_columns()
         
-    schema = pd.read_sql("PRAGMA table_info(institutions)", conn)
-    columns = schema['name'].tolist()
-    conn.close()
-    
-    return f"""
-    Table: 'institutions'
-    Columns: {', '.join(columns)}
-    
-    Data Dictionary:
-    {dd_text}
-    """
+    def _load_config(self):
+        """Loads the Institution Configuration."""
+        try:
+            with open(CONFIG_PATH, 'r') as f:
+                return yaml.safe_load(f)
+        except Exception as e:
+            print(f"⚠️ Config Error: {e}")
+            return {}
 
-def ask_database(question):
-    print(f"\n🦙 Local Llama is thinking about: '{question}'...")
-    
-    schema_context = get_schema()
-    
-    # We need a strict prompt for local models to ensure they output ONLY SQL
-    prompt = f"""
-    You are an expert SQL Data Analyst.
-    
-    Database Schema:
-    {schema_context}
-    
-    Task: Convert this question into a SQLite query: "{question}"
-    
-    Rules:
-    1. Return ONLY the SQL query. Do not wrap it in markdown. Do not explain.
-    2. The table name is 'institutions'.
-    3. Important: Money columns are in thousands.
-    4. Use 'LIMIT 20' if appropriate.
-    """
-    
-    try:
+    def _get_all_columns(self):
+        try:
+            conn = sqlite3.connect(DB_PATH)
+            cursor = conn.cursor()
+            cursor.execute("PRAGMA table_info(institutions)")
+            cols = [row[1] for row in cursor.fetchall()]
+            conn.close()
+            return cols
+        except: return []
+
+    def _find_relevant_columns(self, question):
+        """Smart Column Search (Same as before)"""
+        question = question.lower()
+        relevant = ["name", "inst_id", "year"] # Always include ID
+        
+        keywords = {
+            "computer": "computer", "cs": "computer", "engineer": "engineer",
+            "business": "business", "federal": "fed", "institution": "institution",
+            "math": "math", "bio": "bio", "life": "life", "psych": "psych"
+        }
+        for word, key in keywords.items():
+            if word in question:
+                matches = [c for c in self.all_columns if key in c]
+                relevant.extend(matches)
+        
+        # Add totals if nothing specific is found
+        if len(relevant) == 3:
+            relevant.append("src_total")
+            
+        return list(set(relevant))[:50]
+
+    def _clean_sql(self, text):
+        match = re.search(r'(SELECT.*?;)', text, re.IGNORECASE | re.DOTALL)
+        if match: return match.group(1).replace('\n', ' ').strip()
+        return text.strip()
+
+    def generate_sql(self, question):
+        # 1. Build Peer Lists from Config
+        inst = self.config['institution']
+        my_id = inst['inst_id']
+        my_name = inst['short_name']
+        
+        tx_peers = self.config['peers']['texas']
+        tx_ids = ", ".join([f"'{p['id']}'" for p in tx_peers])
+        
+        nat_peers = self.config['peers']['national']
+        nat_ids = ", ".join([f"'{p['id']}'" for p in nat_peers])
+        
+        # 2. Get Relevant Columns
+        relevant_cols = self._find_relevant_columns(question)
+        col_list_str = ", ".join(relevant_cols)
+        
+        prompt = f"""
+        You are a SQL Expert for the {inst['name']}.
+        
+        ### CONTEXT & IDs (Use these for accuracy)
+        - Current Institution ({my_name}): inst_id = '{my_id}'
+        - Texas Peers List: ({tx_ids})
+        - National Peers List: ({nat_ids})
+        
+        ### DATABASE SCHEMA
+        Table: institutions
+        Relevant Columns: {col_list_str}
+        
+        ### REQUEST
+        "{question}"
+        
+        ### RULES
+        1. **CRITICAL:** Use `inst_id` for specific schools. 
+           - If user asks for "{my_name}" or "UNT", use: WHERE inst_id = '{my_id}'
+           - If user asks for "Texas Peers", use: WHERE inst_id IN ({tx_ids})
+        2. Always SELECT `name` to verify results.
+        3. If no year is specified, default to: WHERE year = 2024.
+        4. Return ONLY valid SQL ending in ;
+        """
+        
         response = client.chat.completions.create(
             model=MODEL_NAME,
             messages=[{"role": "user", "content": prompt}],
             temperature=0
         )
-        
-        # Clean up the response (Local models love to add markdown ```sql ... ```)
-        sql_query = response.choices[0].message.content
-        sql_query = sql_query.replace("```sql", "").replace("```", "").strip()
-        
-        print(f"⚡ Executing SQL: {sql_query}")
-        
-        conn = sqlite3.connect(DB_PATH)
-        df = pd.read_sql(sql_query, conn)
-        conn.close()
-        
-        if df.empty:
-            print("⚠️ No results found.")
-        else:
-            print("\n📊 Results:")
-            print(df.to_markdown(index=False))
+        return self._clean_sql(response.choices[0].message.content)
 
-    except Exception as e:
-        print(f"❌ Error: {e}")
+    def summarize(self, question, df):
+        if df.empty: return "No data found."
+        data_text = df.to_string(index=False, max_rows=10)
+        prompt = f"Summarize this data for: '{question}'.\nData:\n{data_text}\nKeep it to 2 sentences."
+        response = client.chat.completions.create(
+            model=MODEL_NAME, messages=[{"role": "user", "content": prompt}], temperature=0.3
+        )
+        return response.choices[0].message.content
+
+    def run(self):
+        print(f"✅ Config-Aware Agent Ready ({MODEL_NAME})")
+        print(f"   🏛️  Identity: {self.config['institution']['name']} ({self.config['institution']['inst_id']})")
+        
+        while True:
+            q = input("\nAsk (or 'q'): ")
+            if q.lower() in ['q', 'quit']: break
+            
+            print("   Thinking...", end="\r")
+            sql = self.generate_sql(q)
+            print(f"⚡ SQL: {sql}")
+            
+            try:
+                conn = sqlite3.connect(DB_PATH)
+                df = pd.read_sql(sql, conn)
+                conn.close()
+                
+                if df.empty:
+                    print("⚠️ No results.")
+                else:
+                    print("\n📊 Result:")
+                    print(df.to_markdown(index=False))
+                    print("\n📝 Insight:")
+                    print(self.summarize(q, df))
+            except Exception as e:
+                print(f"❌ Error: {e}")
 
 if __name__ == "__main__":
-    print(f"✅ Connected to Ollama ({MODEL_NAME})")
-    while True:
-        user_input = input("\nAsk a question (or 'q' to quit): ")
-        if user_input.lower() in ['q', 'quit']: break
-        ask_database(user_input)
+    LocalAgent().run()

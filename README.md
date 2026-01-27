@@ -49,6 +49,10 @@ The HERD survey collects data on R&D expenditures at U.S. colleges and universit
    ```bash
    uv run server.py
    ```
+4. **Run the MCP server** (for testing):
+   ```bash
+   uv run local_agent.py
+   ```   
 
 ## 📁 Project Structure
 
