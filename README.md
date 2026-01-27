@@ -2,7 +2,7 @@
 
 This project provides a set of tools to download, process, and analyze the **National Science Foundation (NSF) Higher Education Research and Development (HERD)** survey data (2010–2024).
 
-It uses the **Model Context Protocol (MCP)** to allow AI agents (like Cursor Chat or Claude) to query this data using natural language.
+It uses the **Model Context Protocol (MCP)** to allow AI agents to query this data using natural language.
 
 ## 📋 Overview
 
