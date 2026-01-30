@@ -1,0 +1,915 @@
+Question ID,Row Label,Column Label,Question Text,Status,First Year,Last Year,Description Count
+01.1,Competitively awarded internal grants,,Inclusion of Institution funds,New / Added,20122012,20242024,1
+01.1,Competitively awarded internal grants,FY 2011,Inclusion of Institution funds,Intermittent,20122012,20122012,1
+01.1,Other departmental funds,,Inclusion of Institution funds,New / Added,20122012,20242024,1
+01.1,Other departmental funds,FY 2011,Inclusion of Institution funds,Intermittent,20122012,20122012,1
+01.1,"Startup packages, bridge funding, seed funding",,Inclusion of Institution funds,New / Added,20122012,20242024,1
+01.1,"Startup packages, bridge funding, seed funding",FY 2011,Inclusion of Institution funds,Intermittent,20122012,20122012,1
+01.1,Tuition assistance for student research personnel,,Inclusion of Institution funds,New / Added,20122012,20242024,1
+01.1,Tuition assistance for student research personnel,FY 2011,Inclusion of Institution funds,Intermittent,20122012,20122012,1
+01.a,Federal government,,Source,Consistent,20102010,20242024,1
+01.b,State and local government,,Source,Consistent,20102010,20242024,1
+01.c,Business,,Source,Consistent,20102010,20242024,1
+01.d,Nonprofit organizations,,Source,Consistent,20102010,20242024,1
+01.e,Institution funds,,Source,Consistent,20102010,20242024,1
+01.f,All other sources,,Source,Consistent,20102010,20242024,1
+01.g,Total,,Source,Consistent,20102010,20242024,1
+02.a,Foreign governments,,Foreign funds,New / Added,20162016,20242024,1
+02.b,Foreign businesses,,Foreign funds,New / Added,20162016,20242024,1
+02.c,Foreign nonprofit organizations,,Foreign funds,New / Added,20162016,20242024,1
+02.d,Foreign higher education institutions,,Foreign funds,New / Added,20162016,20242024,1
+02.e,Other foreign sources,,Foreign funds,New / Added,20162016,20242024,1
+02.f,Total,,Foreign funds,Consistent,20102010,20242024,1
+03,Contracts,,Externally financed,Consistent,20102010,20242024,1
+03,"Grants, reimbursements, and other agreements",,Externally financed,Consistent,20102010,20242024,1
+03,Total,,Externally financed,Consistent,20102010,20242024,1
+04,Total,,Medical school expenditures,Consistent,20102010,20242024,1
+05,Federal,,Clinical trials,Consistent,20102010,20242024,1
+05,Nonfederal,,Clinical trials,Consistent,20102010,20242024,1
+05,Total,,Clinical trials,Consistent,20102010,20242024,1
+05.1,Federal,,Inclusion of clinical trials in FY 2009 report,Removed,20102010,20102010,1
+05.1,Nonfederal,,Inclusion of clinical trials in FY 2009 report,Removed,20102010,20102010,1
+06.a,Basic research,Federal,Type of R&D conducted,Consistent,20102010,20242024,1
+06.a,Basic research,Nonfederal,Type of R&D conducted,Consistent,20102010,20242024,1
+06.a,Basic research,Total,Type of R&D conducted,Consistent,20102010,20242024,1
+06.b,Applied research,Federal,Type of R&D conducted,Consistent,20102010,20242024,1
+06.b,Applied research,Nonfederal,Type of R&D conducted,Consistent,20102010,20242024,1
+06.b,Applied research,Total,Type of R&D conducted,Consistent,20102010,20242024,1
+06.c,Development,Federal,Type of R&D conducted,Consistent,20102010,20242024,1
+06.c,Development,Nonfederal,Type of R&D conducted,Consistent,20102010,20242024,1
+06.c,Development,Total,Type of R&D conducted,Consistent,20102010,20242024,1
+06.d,All,Federal,Type of R&D conducted,Consistent,20102010,20242024,1
+06.d,All,Nonfederal,Type of R&D conducted,Consistent,20102010,20242024,1
+06.d,All,Total,Type of R&D conducted,Consistent,20102010,20242024,1
+07.a,Higher education institutions,Federal,Received as a subrecipient,Consistent,20102010,20242024,1
+07.a,Higher education institutions,Nonfederal,Received as a subrecipient,Consistent,20102010,20242024,1
+07.a,Higher education institutions,Total,Received as a subrecipient,Consistent,20102010,20242024,1
+07.b,Business,Federal,Received as a subrecipient,New / Added,20112011,20242024,1
+07.b,Business,Nonfederal,Received as a subrecipient,New / Added,20112011,20242024,1
+07.b,Business,Total,Received as a subrecipient,New / Added,20112011,20242024,1
+07.c,Nonprofit organizations,Federal,Received as a subrecipient,New / Added,20112011,20242024,1
+07.c,Nonprofit organizations,Nonfederal,Received as a subrecipient,New / Added,20112011,20242024,1
+07.c,Nonprofit organizations,Total,Received as a subrecipient,New / Added,20112011,20242024,1
+07.d,Other,Federal,Received as a subrecipient,Consistent,20102010,20242024,1
+07.d,Other,Nonfederal,Received as a subrecipient,Consistent,20102010,20242024,1
+07.d,Other,Total,Received as a subrecipient,Consistent,20102010,20242024,1
+07.e,All,Federal,Received as a subrecipient,Consistent,20102010,20242024,1
+07.e,All,Nonfederal,Received as a subrecipient,Consistent,20102010,20242024,1
+07.e,All,Total,Received as a subrecipient,Consistent,20102010,20242024,1
+08.a,Higher education institutions,Federal,Passed through to subrecipients,Consistent,20102010,20242024,1
+08.a,Higher education institutions,Nonfederal,Passed through to subrecipients,Consistent,20102010,20242024,1
+08.a,Higher education institutions,Total,Passed through to subrecipients,Consistent,20102010,20242024,1
+08.b,Business,Federal,Passed through to subrecipients,New / Added,20112011,20242024,1
+08.b,Business,Nonfederal,Passed through to subrecipients,New / Added,20112011,20242024,1
+08.b,Business,Total,Passed through to subrecipients,New / Added,20112011,20242024,1
+08.c,Nonprofit organizations,Federal,Passed through to subrecipients,New / Added,20112011,20242024,1
+08.c,Nonprofit organizations,Nonfederal,Passed through to subrecipients,New / Added,20112011,20242024,1
+08.c,Nonprofit organizations,Total,Passed through to subrecipients,New / Added,20112011,20242024,1
+08.d,Other,Federal,Passed through to subrecipients,Consistent,20102010,20242024,1
+08.d,Other,Nonfederal,Passed through to subrecipients,Consistent,20102010,20242024,1
+08.d,Other,Total,Passed through to subrecipients,Consistent,20102010,20242024,1
+08.e,All,Federal,Passed through to subrecipients,Consistent,20102010,20242024,1
+08.e,All,Nonfederal,Passed through to subrecipients,Consistent,20102010,20242024,1
+08.e,All,Total,Passed through to subrecipients,Consistent,20102010,20242024,1
+09A,"Computer and information sciences, all",DOD,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09A,"Computer and information sciences, all",DOE,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09A,"Computer and information sciences, all",HHS,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09A,"Computer and information sciences, all",NASA,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09A,"Computer and information sciences, all",NSF,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09A,"Computer and information sciences, all",Other agencies,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09A,"Computer and information sciences, all",Total,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09A,"Computer and information sciences, all",USDA,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09B01,"Engineering, aerospace, aeronautical, and astronautical",DOD,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09B01,"Engineering, aerospace, aeronautical, and astronautical",DOE,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09B01,"Engineering, aerospace, aeronautical, and astronautical",HHS,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09B01,"Engineering, aerospace, aeronautical, and astronautical",NASA,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09B01,"Engineering, aerospace, aeronautical, and astronautical",NSF,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09B01,"Engineering, aerospace, aeronautical, and astronautical",Other agencies,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09B01,"Engineering, aerospace, aeronautical, and astronautical",Total,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09B01,"Engineering, aerospace, aeronautical, and astronautical",USDA,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09B02,"Engineering, bioengineering and biomedical engineering",DOD,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09B02,"Engineering, bioengineering and biomedical engineering",DOE,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09B02,"Engineering, bioengineering and biomedical engineering",HHS,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09B02,"Engineering, bioengineering and biomedical engineering",NASA,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09B02,"Engineering, bioengineering and biomedical engineering",NSF,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09B02,"Engineering, bioengineering and biomedical engineering",Other agencies,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09B02,"Engineering, bioengineering and biomedical engineering",Total,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09B02,"Engineering, bioengineering and biomedical engineering",USDA,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09B03,"Engineering, chemical",DOD,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09B03,"Engineering, chemical",DOE,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09B03,"Engineering, chemical",HHS,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09B03,"Engineering, chemical",NASA,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09B03,"Engineering, chemical",NSF,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09B03,"Engineering, chemical",Other agencies,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09B03,"Engineering, chemical",Total,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09B03,"Engineering, chemical",USDA,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09B04,"Engineering, civil",DOD,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09B04,"Engineering, civil",DOE,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09B04,"Engineering, civil",HHS,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09B04,"Engineering, civil",NASA,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09B04,"Engineering, civil",NSF,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09B04,"Engineering, civil",Other agencies,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09B04,"Engineering, civil",Total,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09B04,"Engineering, civil",USDA,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09B05,"Engineering, electrical, electronic, and communications",DOD,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09B05,"Engineering, electrical, electronic, and communications",DOE,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09B05,"Engineering, electrical, electronic, and communications",HHS,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09B05,"Engineering, electrical, electronic, and communications",NASA,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09B05,"Engineering, electrical, electronic, and communications",NSF,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09B05,"Engineering, electrical, electronic, and communications",Other agencies,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09B05,"Engineering, electrical, electronic, and communications",Total,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09B05,"Engineering, electrical, electronic, and communications",USDA,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09B06,"Engineering, industrial and manufacturing",DOD,Federal expenditures by field and agency,New / Added,20162016,20242024,1
+09B06,"Engineering, industrial and manufacturing",DOE,Federal expenditures by field and agency,New / Added,20162016,20242024,1
+09B06,"Engineering, industrial and manufacturing",HHS,Federal expenditures by field and agency,New / Added,20162016,20242024,1
+09B06,"Engineering, industrial and manufacturing",NASA,Federal expenditures by field and agency,New / Added,20162016,20242024,1
+09B06,"Engineering, industrial and manufacturing",NSF,Federal expenditures by field and agency,New / Added,20162016,20242024,1
+09B06,"Engineering, industrial and manufacturing",Other agencies,Federal expenditures by field and agency,New / Added,20162016,20242024,1
+09B06,"Engineering, industrial and manufacturing",Total,Federal expenditures by field and agency,New / Added,20162016,20242024,1
+09B06,"Engineering, industrial and manufacturing",USDA,Federal expenditures by field and agency,New / Added,20162016,20242024,1
+09B07,"Engineering, mechanical",DOD,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09B07,"Engineering, mechanical",DOE,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09B07,"Engineering, mechanical",HHS,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09B07,"Engineering, mechanical",NASA,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09B07,"Engineering, mechanical",NSF,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09B07,"Engineering, mechanical",Other agencies,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09B07,"Engineering, mechanical",Total,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09B07,"Engineering, mechanical",USDA,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09B08,"Engineering, metallurgical and materials",DOD,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09B08,"Engineering, metallurgical and materials",DOE,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09B08,"Engineering, metallurgical and materials",HHS,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09B08,"Engineering, metallurgical and materials",NASA,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09B08,"Engineering, metallurgical and materials",NSF,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09B08,"Engineering, metallurgical and materials",Other agencies,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09B08,"Engineering, metallurgical and materials",Total,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09B08,"Engineering, metallurgical and materials",USDA,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09B09,"Engineering, other",DOD,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09B09,"Engineering, other",DOE,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09B09,"Engineering, other",HHS,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09B09,"Engineering, other",NASA,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09B09,"Engineering, other",NSF,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09B09,"Engineering, other",Other agencies,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09B09,"Engineering, other",Total,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09B09,"Engineering, other",USDA,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09B10,"Engineering, all",DOD,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09B10,"Engineering, all",DOE,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09B10,"Engineering, all",HHS,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09B10,"Engineering, all",NASA,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09B10,"Engineering, all",NSF,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09B10,"Engineering, all",Other agencies,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09B10,"Engineering, all",Total,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09B10,"Engineering, all",USDA,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09C01,"Geosciences, atmospheric sciences, and ocean sciences, atmospheric science and meteorology",DOD,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09C01,"Geosciences, atmospheric sciences, and ocean sciences, atmospheric science and meteorology",DOE,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09C01,"Geosciences, atmospheric sciences, and ocean sciences, atmospheric science and meteorology",HHS,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09C01,"Geosciences, atmospheric sciences, and ocean sciences, atmospheric science and meteorology",NASA,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09C01,"Geosciences, atmospheric sciences, and ocean sciences, atmospheric science and meteorology",NSF,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09C01,"Geosciences, atmospheric sciences, and ocean sciences, atmospheric science and meteorology",Other agencies,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09C01,"Geosciences, atmospheric sciences, and ocean sciences, atmospheric science and meteorology",Total,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09C01,"Geosciences, atmospheric sciences, and ocean sciences, atmospheric science and meteorology",USDA,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09C02,"Geosciences, atmospheric sciences, and ocean sciences, geological and earth sciences",DOD,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09C02,"Geosciences, atmospheric sciences, and ocean sciences, geological and earth sciences",DOE,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09C02,"Geosciences, atmospheric sciences, and ocean sciences, geological and earth sciences",HHS,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09C02,"Geosciences, atmospheric sciences, and ocean sciences, geological and earth sciences",NASA,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09C02,"Geosciences, atmospheric sciences, and ocean sciences, geological and earth sciences",NSF,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09C02,"Geosciences, atmospheric sciences, and ocean sciences, geological and earth sciences",Other agencies,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09C02,"Geosciences, atmospheric sciences, and ocean sciences, geological and earth sciences",Total,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09C02,"Geosciences, atmospheric sciences, and ocean sciences, geological and earth sciences",USDA,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09C03,"Geosciences, atmospheric sciences, and ocean sciences, ocean sciences and marine sciences",DOD,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09C03,"Geosciences, atmospheric sciences, and ocean sciences, ocean sciences and marine sciences",DOE,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09C03,"Geosciences, atmospheric sciences, and ocean sciences, ocean sciences and marine sciences",HHS,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09C03,"Geosciences, atmospheric sciences, and ocean sciences, ocean sciences and marine sciences",NASA,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09C03,"Geosciences, atmospheric sciences, and ocean sciences, ocean sciences and marine sciences",NSF,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09C03,"Geosciences, atmospheric sciences, and ocean sciences, ocean sciences and marine sciences",Other agencies,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09C03,"Geosciences, atmospheric sciences, and ocean sciences, ocean sciences and marine sciences",Total,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09C03,"Geosciences, atmospheric sciences, and ocean sciences, ocean sciences and marine sciences",USDA,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09C04,"Geosciences, atmospheric sciences, and ocean sciences, other",DOD,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09C04,"Geosciences, atmospheric sciences, and ocean sciences, other",DOE,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09C04,"Geosciences, atmospheric sciences, and ocean sciences, other",HHS,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09C04,"Geosciences, atmospheric sciences, and ocean sciences, other",NASA,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09C04,"Geosciences, atmospheric sciences, and ocean sciences, other",NSF,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09C04,"Geosciences, atmospheric sciences, and ocean sciences, other",Other agencies,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09C04,"Geosciences, atmospheric sciences, and ocean sciences, other",Total,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09C04,"Geosciences, atmospheric sciences, and ocean sciences, other",USDA,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09C05,"Geosciences, atmospheric sciences, and ocean sciences, all",DOD,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09C05,"Geosciences, atmospheric sciences, and ocean sciences, all",DOE,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09C05,"Geosciences, atmospheric sciences, and ocean sciences, all",HHS,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09C05,"Geosciences, atmospheric sciences, and ocean sciences, all",NASA,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09C05,"Geosciences, atmospheric sciences, and ocean sciences, all",NSF,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09C05,"Geosciences, atmospheric sciences, and ocean sciences, all",Other agencies,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09C05,"Geosciences, atmospheric sciences, and ocean sciences, all",Total,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09C05,"Geosciences, atmospheric sciences, and ocean sciences, all",USDA,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09D01,"Life sciences, agricultural sciences",DOD,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09D01,"Life sciences, agricultural sciences",DOE,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09D01,"Life sciences, agricultural sciences",HHS,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09D01,"Life sciences, agricultural sciences",NASA,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09D01,"Life sciences, agricultural sciences",NSF,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09D01,"Life sciences, agricultural sciences",Other agencies,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09D01,"Life sciences, agricultural sciences",Total,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09D01,"Life sciences, agricultural sciences",USDA,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09D02,"Life sciences, biological and biomedical sciences",DOD,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09D02,"Life sciences, biological and biomedical sciences",DOE,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09D02,"Life sciences, biological and biomedical sciences",HHS,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09D02,"Life sciences, biological and biomedical sciences",NASA,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09D02,"Life sciences, biological and biomedical sciences",NSF,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09D02,"Life sciences, biological and biomedical sciences",Other agencies,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09D02,"Life sciences, biological and biomedical sciences",Total,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09D02,"Life sciences, biological and biomedical sciences",USDA,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09D03,"Life sciences, health sciences",DOD,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09D03,"Life sciences, health sciences",DOE,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09D03,"Life sciences, health sciences",HHS,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09D03,"Life sciences, health sciences",NASA,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09D03,"Life sciences, health sciences",NSF,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09D03,"Life sciences, health sciences",Other agencies,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09D03,"Life sciences, health sciences",Total,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09D03,"Life sciences, health sciences",USDA,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09D04,"Life sciences, natural resources and conservation",DOD,Federal expenditures by field and agency,New / Added,20162016,20242024,1
+09D04,"Life sciences, natural resources and conservation",DOE,Federal expenditures by field and agency,New / Added,20162016,20242024,1
+09D04,"Life sciences, natural resources and conservation",HHS,Federal expenditures by field and agency,New / Added,20162016,20242024,1
+09D04,"Life sciences, natural resources and conservation",NASA,Federal expenditures by field and agency,New / Added,20162016,20242024,1
+09D04,"Life sciences, natural resources and conservation",NSF,Federal expenditures by field and agency,New / Added,20162016,20242024,1
+09D04,"Life sciences, natural resources and conservation",Other agencies,Federal expenditures by field and agency,New / Added,20162016,20242024,1
+09D04,"Life sciences, natural resources and conservation",Total,Federal expenditures by field and agency,New / Added,20162016,20242024,1
+09D04,"Life sciences, natural resources and conservation",USDA,Federal expenditures by field and agency,New / Added,20162016,20242024,1
+09D05,"Life sciences, other",DOD,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09D05,"Life sciences, other",DOE,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09D05,"Life sciences, other",HHS,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09D05,"Life sciences, other",NASA,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09D05,"Life sciences, other",NSF,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09D05,"Life sciences, other",Other agencies,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09D05,"Life sciences, other",Total,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09D05,"Life sciences, other",USDA,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09D06,"Life sciences, all",DOD,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09D06,"Life sciences, all",DOE,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09D06,"Life sciences, all",HHS,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09D06,"Life sciences, all",NASA,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09D06,"Life sciences, all",NSF,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09D06,"Life sciences, all",Other agencies,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09D06,"Life sciences, all",Total,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09D06,"Life sciences, all",USDA,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09E,"Mathematics and statistics, all",DOD,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09E,"Mathematics and statistics, all",DOE,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09E,"Mathematics and statistics, all",HHS,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09E,"Mathematics and statistics, all",NASA,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09E,"Mathematics and statistics, all",NSF,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09E,"Mathematics and statistics, all",Other agencies,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09E,"Mathematics and statistics, all",Total,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09E,"Mathematics and statistics, all",USDA,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09F01,"Physical sciences, astronomy and astrophysics",DOD,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09F01,"Physical sciences, astronomy and astrophysics",DOE,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09F01,"Physical sciences, astronomy and astrophysics",HHS,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09F01,"Physical sciences, astronomy and astrophysics",NASA,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09F01,"Physical sciences, astronomy and astrophysics",NSF,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09F01,"Physical sciences, astronomy and astrophysics",Other agencies,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09F01,"Physical sciences, astronomy and astrophysics",Total,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09F01,"Physical sciences, astronomy and astrophysics",USDA,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09F02,"Physical sciences, chemistry",DOD,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09F02,"Physical sciences, chemistry",DOE,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09F02,"Physical sciences, chemistry",HHS,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09F02,"Physical sciences, chemistry",NASA,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09F02,"Physical sciences, chemistry",NSF,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09F02,"Physical sciences, chemistry",Other agencies,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09F02,"Physical sciences, chemistry",Total,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09F02,"Physical sciences, chemistry",USDA,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09F03,"Physical sciences, materials science",DOD,Federal expenditures by field and agency,New / Added,20162016,20242024,1
+09F03,"Physical sciences, materials science",DOE,Federal expenditures by field and agency,New / Added,20162016,20242024,1
+09F03,"Physical sciences, materials science",HHS,Federal expenditures by field and agency,New / Added,20162016,20242024,1
+09F03,"Physical sciences, materials science",NASA,Federal expenditures by field and agency,New / Added,20162016,20242024,1
+09F03,"Physical sciences, materials science",NSF,Federal expenditures by field and agency,New / Added,20162016,20242024,1
+09F03,"Physical sciences, materials science",Other agencies,Federal expenditures by field and agency,New / Added,20162016,20242024,1
+09F03,"Physical sciences, materials science",Total,Federal expenditures by field and agency,New / Added,20162016,20242024,1
+09F03,"Physical sciences, materials science",USDA,Federal expenditures by field and agency,New / Added,20162016,20242024,1
+09F04,"Physical sciences, physics",DOD,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09F04,"Physical sciences, physics",DOE,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09F04,"Physical sciences, physics",HHS,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09F04,"Physical sciences, physics",NASA,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09F04,"Physical sciences, physics",NSF,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09F04,"Physical sciences, physics",Other agencies,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09F04,"Physical sciences, physics",Total,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09F04,"Physical sciences, physics",USDA,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09F05,"Physical sciences, other",DOD,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09F05,"Physical sciences, other",DOE,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09F05,"Physical sciences, other",HHS,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09F05,"Physical sciences, other",NASA,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09F05,"Physical sciences, other",NSF,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09F05,"Physical sciences, other",Other agencies,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09F05,"Physical sciences, other",Total,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09F05,"Physical sciences, other",USDA,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09F06,"Physical sciences, all",DOD,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09F06,"Physical sciences, all",DOE,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09F06,"Physical sciences, all",HHS,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09F06,"Physical sciences, all",NASA,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09F06,"Physical sciences, all",NSF,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09F06,"Physical sciences, all",Other agencies,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09F06,"Physical sciences, all",Total,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09F06,"Physical sciences, all",USDA,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09G,"Psychology, all",DOD,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09G,"Psychology, all",DOE,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09G,"Psychology, all",HHS,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09G,"Psychology, all",NASA,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09G,"Psychology, all",NSF,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09G,"Psychology, all",Other agencies,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09G,"Psychology, all",Total,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09G,"Psychology, all",USDA,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09H01,"Social sciences, anthropology",DOD,Federal expenditures by field and agency,New / Added,20162016,20242024,1
+09H01,"Social sciences, anthropology",DOE,Federal expenditures by field and agency,New / Added,20162016,20242024,1
+09H01,"Social sciences, anthropology",HHS,Federal expenditures by field and agency,New / Added,20162016,20242024,1
+09H01,"Social sciences, anthropology",NASA,Federal expenditures by field and agency,New / Added,20162016,20242024,1
+09H01,"Social sciences, anthropology",NSF,Federal expenditures by field and agency,New / Added,20162016,20242024,1
+09H01,"Social sciences, anthropology",Other agencies,Federal expenditures by field and agency,New / Added,20162016,20242024,1
+09H01,"Social sciences, anthropology",Total,Federal expenditures by field and agency,New / Added,20162016,20242024,1
+09H01,"Social sciences, anthropology",USDA,Federal expenditures by field and agency,New / Added,20162016,20242024,1
+09H02,"Social sciences, economics",DOD,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09H02,"Social sciences, economics",DOE,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09H02,"Social sciences, economics",HHS,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09H02,"Social sciences, economics",NASA,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09H02,"Social sciences, economics",NSF,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09H02,"Social sciences, economics",Other agencies,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09H02,"Social sciences, economics",Total,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09H02,"Social sciences, economics",USDA,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09H03,"Social sciences, political science and government",DOD,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09H03,"Social sciences, political science and government",DOE,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09H03,"Social sciences, political science and government",HHS,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09H03,"Social sciences, political science and government",NASA,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09H03,"Social sciences, political science and government",NSF,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09H03,"Social sciences, political science and government",Other agencies,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09H03,"Social sciences, political science and government",Total,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09H03,"Social sciences, political science and government",USDA,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09H04,"Social sciences, sociology, demography, and population studies",DOD,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09H04,"Social sciences, sociology, demography, and population studies",DOE,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09H04,"Social sciences, sociology, demography, and population studies",HHS,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09H04,"Social sciences, sociology, demography, and population studies",NASA,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09H04,"Social sciences, sociology, demography, and population studies",NSF,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09H04,"Social sciences, sociology, demography, and population studies",Other agencies,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09H04,"Social sciences, sociology, demography, and population studies",Total,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09H04,"Social sciences, sociology, demography, and population studies",USDA,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09H05,"Social sciences, other",DOD,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09H05,"Social sciences, other",DOE,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09H05,"Social sciences, other",HHS,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09H05,"Social sciences, other",NASA,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09H05,"Social sciences, other",NSF,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09H05,"Social sciences, other",Other agencies,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09H05,"Social sciences, other",Total,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09H05,"Social sciences, other",USDA,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09H06,"Social sciences, all",DOD,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09H06,"Social sciences, all",DOE,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09H06,"Social sciences, all",HHS,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09H06,"Social sciences, all",NASA,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09H06,"Social sciences, all",NSF,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09H06,"Social sciences, all",Other agencies,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09H06,"Social sciences, all",Total,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09H06,"Social sciences, all",USDA,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09I,"Other sciences, all",DOD,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09I,"Other sciences, all",DOE,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09I,"Other sciences, all",HHS,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09I,"Other sciences, all",NASA,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09I,"Other sciences, all",NSF,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09I,"Other sciences, all",Other agencies,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09I,"Other sciences, all",Total,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09I,"Other sciences, all",USDA,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09J01,"Non-S&E, business management and business administration",DOD,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09J01,"Non-S&E, business management and business administration",DOE,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09J01,"Non-S&E, business management and business administration",HHS,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09J01,"Non-S&E, business management and business administration",NASA,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09J01,"Non-S&E, business management and business administration",NSF,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09J01,"Non-S&E, business management and business administration",Other agencies,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09J01,"Non-S&E, business management and business administration",Total,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09J01,"Non-S&E, business management and business administration",USDA,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09J02,"Non-S&E, communication and communications technologies",DOD,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09J02,"Non-S&E, communication and communications technologies",DOE,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09J02,"Non-S&E, communication and communications technologies",HHS,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09J02,"Non-S&E, communication and communications technologies",NASA,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09J02,"Non-S&E, communication and communications technologies",NSF,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09J02,"Non-S&E, communication and communications technologies",Other agencies,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09J02,"Non-S&E, communication and communications technologies",Total,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09J02,"Non-S&E, communication and communications technologies",USDA,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09J03,"Non-S&E, education",DOD,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09J03,"Non-S&E, education",DOE,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09J03,"Non-S&E, education",HHS,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09J03,"Non-S&E, education",NASA,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09J03,"Non-S&E, education",NSF,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09J03,"Non-S&E, education",Other agencies,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09J03,"Non-S&E, education",Total,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09J03,"Non-S&E, education",USDA,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09J04,"Non-S&E, humanities",DOD,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09J04,"Non-S&E, humanities",DOE,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09J04,"Non-S&E, humanities",HHS,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09J04,"Non-S&E, humanities",NASA,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09J04,"Non-S&E, humanities",NSF,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09J04,"Non-S&E, humanities",Other agencies,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09J04,"Non-S&E, humanities",Total,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09J04,"Non-S&E, humanities",USDA,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09J05,"Non-S&E, law",DOD,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09J05,"Non-S&E, law",DOE,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09J05,"Non-S&E, law",HHS,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09J05,"Non-S&E, law",NASA,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09J05,"Non-S&E, law",NSF,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09J05,"Non-S&E, law",Other agencies,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09J05,"Non-S&E, law",Total,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09J05,"Non-S&E, law",USDA,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09J06,"Non-S&E, social work",DOD,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09J06,"Non-S&E, social work",DOE,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09J06,"Non-S&E, social work",HHS,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09J06,"Non-S&E, social work",NASA,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09J06,"Non-S&E, social work",NSF,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09J06,"Non-S&E, social work",Other agencies,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09J06,"Non-S&E, social work",Total,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09J06,"Non-S&E, social work",USDA,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09J07,"Non-S&E, visual and performing arts",DOD,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09J07,"Non-S&E, visual and performing arts",DOE,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09J07,"Non-S&E, visual and performing arts",HHS,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09J07,"Non-S&E, visual and performing arts",NASA,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09J07,"Non-S&E, visual and performing arts",NSF,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09J07,"Non-S&E, visual and performing arts",Other agencies,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09J07,"Non-S&E, visual and performing arts",Total,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09J07,"Non-S&E, visual and performing arts",USDA,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09J08,"Non-S&E, other",DOD,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09J08,"Non-S&E, other",DOE,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09J08,"Non-S&E, other",HHS,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09J08,"Non-S&E, other",NASA,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09J08,"Non-S&E, other",NSF,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09J08,"Non-S&E, other",Other agencies,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09J08,"Non-S&E, other",Total,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09J08,"Non-S&E, other",USDA,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09J09,"Non-S&E, all",DOD,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09J09,"Non-S&E, all",DOE,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09J09,"Non-S&E, all",HHS,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09J09,"Non-S&E, all",NASA,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09J09,"Non-S&E, all",NSF,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09J09,"Non-S&E, all",Other agencies,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09J09,"Non-S&E, all",Total,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09J09,"Non-S&E, all",USDA,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09K,All,DOD,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09K,All,DOE,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09K,All,HHS,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09K,All,NASA,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09K,All,NSF,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09K,All,Other agencies,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09K,All,Total,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+09K,All,USDA,Federal expenditures by field and agency,Consistent,20102010,20242024,1
+10,01,,Other agency specified,Consistent,20102010,20242024,1
+10,01,Campus 2,Other agency specified,Consistent,20102010,20242024,1
+10,02,,Other agency specified,Consistent,20102010,20242024,1
+10,02,Campus 2,Other agency specified,Consistent,20102010,20242024,1
+10,03,,Other agency specified,Consistent,20102010,20242024,1
+10,03,Campus 2,Other agency specified,Consistent,20102010,20242024,1
+10,04,,Other agency specified,Consistent,20102010,20242024,1
+10,04,Campus 2,Other agency specified,Consistent,20102010,20242024,1
+10,05,,Other agency specified,Consistent,20102010,20242024,1
+10,05,Campus 2,Other agency specified,New / Added,20182018,20242024,1
+10,06,,Other agency specified,Consistent,20102010,20242024,1
+10,06,Campus 2,Other agency specified,New / Added,20182018,20242024,1
+10,07,,Other agency specified,Consistent,20102010,20242024,1
+10,07,Campus 2,Other agency specified,New / Added,20192019,20242024,1
+10,08,,Other agency specified,Consistent,20102010,20242024,1
+10,08,Campus 2,Other agency specified,New / Added,20192019,20242024,1
+10,09,,Other agency specified,Consistent,20102010,20242024,1
+10,09,Campus 2,Other agency specified,New / Added,20192019,20242024,1
+10,10,,Other agency specified,Consistent,20102010,20242024,1
+10,10,Campus 2,Other agency specified,New / Added,20202020,20242024,1
+10,"Other, not listed separately",,Other agency specified,Consistent,20102010,20242024,1
+11A,"Computer and information sciences, all",All other sources,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11A,"Computer and information sciences, all",Business,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11A,"Computer and information sciences, all",Institution funds,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11A,"Computer and information sciences, all",Nonprofit organziations,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11A,"Computer and information sciences, all",State and local government,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11A,"Computer and information sciences, all",Total,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11B01,"Engineering, aerospace, aeronautical, and astronautical",All other sources,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11B01,"Engineering, aerospace, aeronautical, and astronautical",Business,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11B01,"Engineering, aerospace, aeronautical, and astronautical",Institution funds,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11B01,"Engineering, aerospace, aeronautical, and astronautical",Nonprofit organziations,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11B01,"Engineering, aerospace, aeronautical, and astronautical",State and local government,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11B01,"Engineering, aerospace, aeronautical, and astronautical",Total,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11B02,"Engineering, bioengineering and biomedical engineering",All other sources,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11B02,"Engineering, bioengineering and biomedical engineering",Business,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11B02,"Engineering, bioengineering and biomedical engineering",Institution funds,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11B02,"Engineering, bioengineering and biomedical engineering",Nonprofit organziations,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11B02,"Engineering, bioengineering and biomedical engineering",State and local government,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11B02,"Engineering, bioengineering and biomedical engineering",Total,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11B03,"Engineering, chemical",All other sources,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11B03,"Engineering, chemical",Business,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11B03,"Engineering, chemical",Institution funds,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11B03,"Engineering, chemical",Nonprofit organziations,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11B03,"Engineering, chemical",State and local government,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11B03,"Engineering, chemical",Total,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11B04,"Engineering, civil",All other sources,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11B04,"Engineering, civil",Business,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11B04,"Engineering, civil",Institution funds,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11B04,"Engineering, civil",Nonprofit organziations,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11B04,"Engineering, civil",State and local government,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11B04,"Engineering, civil",Total,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11B05,"Engineering, electrical, electronic, and communications",All other sources,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11B05,"Engineering, electrical, electronic, and communications",Business,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11B05,"Engineering, electrical, electronic, and communications",Institution funds,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11B05,"Engineering, electrical, electronic, and communications",Nonprofit organziations,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11B05,"Engineering, electrical, electronic, and communications",State and local government,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11B05,"Engineering, electrical, electronic, and communications",Total,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11B06,"Engineering, industrial and manufacturing",All other sources,Nonfederal expenditures by field and source,New / Added,20162016,20242024,1
+11B06,"Engineering, industrial and manufacturing",Business,Nonfederal expenditures by field and source,New / Added,20162016,20242024,1
+11B06,"Engineering, industrial and manufacturing",Institution funds,Nonfederal expenditures by field and source,New / Added,20162016,20242024,1
+11B06,"Engineering, industrial and manufacturing",Nonprofit organziations,Nonfederal expenditures by field and source,New / Added,20162016,20242024,1
+11B06,"Engineering, industrial and manufacturing",State and local government,Nonfederal expenditures by field and source,New / Added,20162016,20242024,1
+11B06,"Engineering, industrial and manufacturing",Total,Nonfederal expenditures by field and source,New / Added,20162016,20242024,1
+11B07,"Engineering, mechanical",All other sources,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11B07,"Engineering, mechanical",Business,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11B07,"Engineering, mechanical",Institution funds,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11B07,"Engineering, mechanical",Nonprofit organziations,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11B07,"Engineering, mechanical",State and local government,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11B07,"Engineering, mechanical",Total,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11B08,"Engineering, metallurgical and materials",All other sources,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11B08,"Engineering, metallurgical and materials",Business,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11B08,"Engineering, metallurgical and materials",Institution funds,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11B08,"Engineering, metallurgical and materials",Nonprofit organziations,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11B08,"Engineering, metallurgical and materials",State and local government,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11B08,"Engineering, metallurgical and materials",Total,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11B09,"Engineering, other",All other sources,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11B09,"Engineering, other",Business,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11B09,"Engineering, other",Institution funds,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11B09,"Engineering, other",Nonprofit organziations,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11B09,"Engineering, other",State and local government,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11B09,"Engineering, other",Total,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11B10,"Engineering, all",All other sources,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11B10,"Engineering, all",Business,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11B10,"Engineering, all",Institution funds,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11B10,"Engineering, all",Nonprofit organziations,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11B10,"Engineering, all",State and local government,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11B10,"Engineering, all",Total,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11C01,"Geosciences, atmospheric sciences, and ocean sciences, atmospheric science and meteorology",All other sources,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11C01,"Geosciences, atmospheric sciences, and ocean sciences, atmospheric science and meteorology",Business,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11C01,"Geosciences, atmospheric sciences, and ocean sciences, atmospheric science and meteorology",Institution funds,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11C01,"Geosciences, atmospheric sciences, and ocean sciences, atmospheric science and meteorology",Nonprofit organziations,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11C01,"Geosciences, atmospheric sciences, and ocean sciences, atmospheric science and meteorology",State and local government,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11C01,"Geosciences, atmospheric sciences, and ocean sciences, atmospheric science and meteorology",Total,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11C02,"Geosciences, atmospheric sciences, and ocean sciences, geological and earth sciences",All other sources,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11C02,"Geosciences, atmospheric sciences, and ocean sciences, geological and earth sciences",Business,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11C02,"Geosciences, atmospheric sciences, and ocean sciences, geological and earth sciences",Institution funds,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11C02,"Geosciences, atmospheric sciences, and ocean sciences, geological and earth sciences",Nonprofit organziations,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11C02,"Geosciences, atmospheric sciences, and ocean sciences, geological and earth sciences",State and local government,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11C02,"Geosciences, atmospheric sciences, and ocean sciences, geological and earth sciences",Total,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11C03,"Geosciences, atmospheric sciences, and ocean sciences, ocean sciences and marine sciences",All other sources,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11C03,"Geosciences, atmospheric sciences, and ocean sciences, ocean sciences and marine sciences",Business,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11C03,"Geosciences, atmospheric sciences, and ocean sciences, ocean sciences and marine sciences",Institution funds,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11C03,"Geosciences, atmospheric sciences, and ocean sciences, ocean sciences and marine sciences",Nonprofit organziations,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11C03,"Geosciences, atmospheric sciences, and ocean sciences, ocean sciences and marine sciences",State and local government,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11C03,"Geosciences, atmospheric sciences, and ocean sciences, ocean sciences and marine sciences",Total,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11C04,"Geosciences, atmospheric sciences, and ocean sciences, other",All other sources,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11C04,"Geosciences, atmospheric sciences, and ocean sciences, other",Business,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11C04,"Geosciences, atmospheric sciences, and ocean sciences, other",Institution funds,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11C04,"Geosciences, atmospheric sciences, and ocean sciences, other",Nonprofit organziations,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11C04,"Geosciences, atmospheric sciences, and ocean sciences, other",State and local government,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11C04,"Geosciences, atmospheric sciences, and ocean sciences, other",Total,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11C05,"Geosciences, atmospheric sciences, and ocean sciences, all",All other sources,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11C05,"Geosciences, atmospheric sciences, and ocean sciences, all",Business,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11C05,"Geosciences, atmospheric sciences, and ocean sciences, all",Institution funds,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11C05,"Geosciences, atmospheric sciences, and ocean sciences, all",Nonprofit organziations,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11C05,"Geosciences, atmospheric sciences, and ocean sciences, all",State and local government,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11C05,"Geosciences, atmospheric sciences, and ocean sciences, all",Total,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11D01,"Life sciences, agricultural sciences",All other sources,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11D01,"Life sciences, agricultural sciences",Business,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11D01,"Life sciences, agricultural sciences",Institution funds,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11D01,"Life sciences, agricultural sciences",Nonprofit organziations,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11D01,"Life sciences, agricultural sciences",State and local government,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11D01,"Life sciences, agricultural sciences",Total,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11D02,"Life sciences, biological and biomedical sciences",All other sources,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11D02,"Life sciences, biological and biomedical sciences",Business,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11D02,"Life sciences, biological and biomedical sciences",Institution funds,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11D02,"Life sciences, biological and biomedical sciences",Nonprofit organziations,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11D02,"Life sciences, biological and biomedical sciences",State and local government,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11D02,"Life sciences, biological and biomedical sciences",Total,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11D03,"Life sciences, health sciences",All other sources,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11D03,"Life sciences, health sciences",Business,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11D03,"Life sciences, health sciences",Institution funds,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11D03,"Life sciences, health sciences",Nonprofit organziations,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11D03,"Life sciences, health sciences",State and local government,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11D03,"Life sciences, health sciences",Total,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11D04,"Life sciences, natural resources and conservation",All other sources,Nonfederal expenditures by field and source,New / Added,20162016,20242024,1
+11D04,"Life sciences, natural resources and conservation",Business,Nonfederal expenditures by field and source,New / Added,20162016,20242024,1
+11D04,"Life sciences, natural resources and conservation",Institution funds,Nonfederal expenditures by field and source,New / Added,20162016,20242024,1
+11D04,"Life sciences, natural resources and conservation",Nonprofit organziations,Nonfederal expenditures by field and source,New / Added,20162016,20242024,1
+11D04,"Life sciences, natural resources and conservation",State and local government,Nonfederal expenditures by field and source,New / Added,20162016,20242024,1
+11D04,"Life sciences, natural resources and conservation",Total,Nonfederal expenditures by field and source,New / Added,20162016,20242024,1
+11D05,"Life sciences, other",All other sources,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11D05,"Life sciences, other",Business,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11D05,"Life sciences, other",Institution funds,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11D05,"Life sciences, other",Nonprofit organziations,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11D05,"Life sciences, other",State and local government,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11D05,"Life sciences, other",Total,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11D06,"Life sciences, all",All other sources,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11D06,"Life sciences, all",Business,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11D06,"Life sciences, all",Institution funds,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11D06,"Life sciences, all",Nonprofit organziations,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11D06,"Life sciences, all",State and local government,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11D06,"Life sciences, all",Total,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11E,"Mathematics and statistics, all",All other sources,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11E,"Mathematics and statistics, all",Business,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11E,"Mathematics and statistics, all",Institution funds,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11E,"Mathematics and statistics, all",Nonprofit organziations,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11E,"Mathematics and statistics, all",State and local government,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11E,"Mathematics and statistics, all",Total,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11F01,"Physical sciences, astronomy and astrophysics",All other sources,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11F01,"Physical sciences, astronomy and astrophysics",Business,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11F01,"Physical sciences, astronomy and astrophysics",Institution funds,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11F01,"Physical sciences, astronomy and astrophysics",Nonprofit organziations,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11F01,"Physical sciences, astronomy and astrophysics",State and local government,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11F01,"Physical sciences, astronomy and astrophysics",Total,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11F02,"Physical sciences, chemistry",All other sources,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11F02,"Physical sciences, chemistry",Business,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11F02,"Physical sciences, chemistry",Institution funds,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11F02,"Physical sciences, chemistry",Nonprofit organziations,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11F02,"Physical sciences, chemistry",State and local government,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11F02,"Physical sciences, chemistry",Total,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11F03,"Physical sciences, materials science",All other sources,Nonfederal expenditures by field and source,New / Added,20162016,20242024,1
+11F03,"Physical sciences, materials science",Business,Nonfederal expenditures by field and source,New / Added,20162016,20242024,1
+11F03,"Physical sciences, materials science",Institution funds,Nonfederal expenditures by field and source,New / Added,20162016,20242024,1
+11F03,"Physical sciences, materials science",Nonprofit organziations,Nonfederal expenditures by field and source,New / Added,20162016,20242024,1
+11F03,"Physical sciences, materials science",State and local government,Nonfederal expenditures by field and source,New / Added,20162016,20242024,1
+11F03,"Physical sciences, materials science",Total,Nonfederal expenditures by field and source,New / Added,20162016,20242024,1
+11F04,"Physical sciences, physics",All other sources,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11F04,"Physical sciences, physics",Business,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11F04,"Physical sciences, physics",Institution funds,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11F04,"Physical sciences, physics",Nonprofit organziations,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11F04,"Physical sciences, physics",State and local government,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11F04,"Physical sciences, physics",Total,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11F05,"Physical sciences, other",All other sources,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11F05,"Physical sciences, other",Business,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11F05,"Physical sciences, other",Institution funds,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11F05,"Physical sciences, other",Nonprofit organziations,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11F05,"Physical sciences, other",State and local government,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11F05,"Physical sciences, other",Total,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11F06,"Physical sciences, all",All other sources,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11F06,"Physical sciences, all",Business,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11F06,"Physical sciences, all",Institution funds,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11F06,"Physical sciences, all",Nonprofit organziations,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11F06,"Physical sciences, all",State and local government,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11F06,"Physical sciences, all",Total,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11G,"Psychology, all",All other sources,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11G,"Psychology, all",Business,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11G,"Psychology, all",Institution funds,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11G,"Psychology, all",Nonprofit organziations,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11G,"Psychology, all",State and local government,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11G,"Psychology, all",Total,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11H01,"Social sciences, anthropology",All other sources,Nonfederal expenditures by field and source,New / Added,20162016,20242024,1
+11H01,"Social sciences, anthropology",Business,Nonfederal expenditures by field and source,New / Added,20162016,20242024,1
+11H01,"Social sciences, anthropology",Institution funds,Nonfederal expenditures by field and source,New / Added,20162016,20242024,1
+11H01,"Social sciences, anthropology",Nonprofit organziations,Nonfederal expenditures by field and source,New / Added,20162016,20242024,1
+11H01,"Social sciences, anthropology",State and local government,Nonfederal expenditures by field and source,New / Added,20162016,20242024,1
+11H01,"Social sciences, anthropology",Total,Nonfederal expenditures by field and source,New / Added,20162016,20242024,1
+11H02,"Social sciences, economics",All other sources,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11H02,"Social sciences, economics",Business,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11H02,"Social sciences, economics",Institution funds,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11H02,"Social sciences, economics",Nonprofit organziations,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11H02,"Social sciences, economics",State and local government,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11H02,"Social sciences, economics",Total,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11H03,"Social sciences, political science and government",All other sources,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11H03,"Social sciences, political science and government",Business,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11H03,"Social sciences, political science and government",Institution funds,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11H03,"Social sciences, political science and government",Nonprofit organziations,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11H03,"Social sciences, political science and government",State and local government,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11H03,"Social sciences, political science and government",Total,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11H04,"Social sciences, sociology, demography, and population studies",All other sources,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11H04,"Social sciences, sociology, demography, and population studies",Business,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11H04,"Social sciences, sociology, demography, and population studies",Institution funds,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11H04,"Social sciences, sociology, demography, and population studies",Nonprofit organziations,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11H04,"Social sciences, sociology, demography, and population studies",State and local government,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11H04,"Social sciences, sociology, demography, and population studies",Total,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11H05,"Social sciences, other",All other sources,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11H05,"Social sciences, other",Business,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11H05,"Social sciences, other",Institution funds,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11H05,"Social sciences, other",Nonprofit organziations,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11H05,"Social sciences, other",State and local government,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11H05,"Social sciences, other",Total,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11H06,"Social sciences, all",All other sources,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11H06,"Social sciences, all",Business,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11H06,"Social sciences, all",Institution funds,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11H06,"Social sciences, all",Nonprofit organziations,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11H06,"Social sciences, all",State and local government,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11H06,"Social sciences, all",Total,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11I,"Other sciences, all",All other sources,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11I,"Other sciences, all",Business,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11I,"Other sciences, all",Institution funds,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11I,"Other sciences, all",Nonprofit organziations,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11I,"Other sciences, all",State and local government,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11I,"Other sciences, all",Total,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11J01,"Non-S&E, business management and business administration",All other sources,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11J01,"Non-S&E, business management and business administration",Business,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11J01,"Non-S&E, business management and business administration",Institution funds,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11J01,"Non-S&E, business management and business administration",Nonprofit organziations,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11J01,"Non-S&E, business management and business administration",State and local government,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11J01,"Non-S&E, business management and business administration",Total,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11J02,"Non-S&E, communication and communications technologies",All other sources,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11J02,"Non-S&E, communication and communications technologies",Business,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11J02,"Non-S&E, communication and communications technologies",Institution funds,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11J02,"Non-S&E, communication and communications technologies",Nonprofit organziations,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11J02,"Non-S&E, communication and communications technologies",State and local government,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11J02,"Non-S&E, communication and communications technologies",Total,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11J03,"Non-S&E, education",All other sources,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11J03,"Non-S&E, education",Business,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11J03,"Non-S&E, education",Institution funds,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11J03,"Non-S&E, education",Nonprofit organziations,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11J03,"Non-S&E, education",State and local government,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11J03,"Non-S&E, education",Total,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11J04,"Non-S&E, humanities",All other sources,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11J04,"Non-S&E, humanities",Business,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11J04,"Non-S&E, humanities",Institution funds,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11J04,"Non-S&E, humanities",Nonprofit organziations,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11J04,"Non-S&E, humanities",State and local government,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11J04,"Non-S&E, humanities",Total,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11J05,"Non-S&E, law",All other sources,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11J05,"Non-S&E, law",Business,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11J05,"Non-S&E, law",Institution funds,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11J05,"Non-S&E, law",Nonprofit organziations,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11J05,"Non-S&E, law",State and local government,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11J05,"Non-S&E, law",Total,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11J06,"Non-S&E, social work",All other sources,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11J06,"Non-S&E, social work",Business,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11J06,"Non-S&E, social work",Institution funds,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11J06,"Non-S&E, social work",Nonprofit organziations,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11J06,"Non-S&E, social work",State and local government,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11J06,"Non-S&E, social work",Total,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11J07,"Non-S&E, visual and performing arts",All other sources,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11J07,"Non-S&E, visual and performing arts",Business,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11J07,"Non-S&E, visual and performing arts",Institution funds,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11J07,"Non-S&E, visual and performing arts",Nonprofit organziations,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11J07,"Non-S&E, visual and performing arts",State and local government,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11J07,"Non-S&E, visual and performing arts",Total,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11J08,"Non-S&E, other",All other sources,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11J08,"Non-S&E, other",Business,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11J08,"Non-S&E, other",Institution funds,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11J08,"Non-S&E, other",Nonprofit organziations,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11J08,"Non-S&E, other",State and local government,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11J08,"Non-S&E, other",Total,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11J09,"Non-S&E, all",All other sources,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11J09,"Non-S&E, all",Business,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11J09,"Non-S&E, all",Institution funds,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11J09,"Non-S&E, all",Nonprofit organziations,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11J09,"Non-S&E, all",State and local government,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11J09,"Non-S&E, all",Total,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11K,All,All other sources,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11K,All,Business,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11K,All,Institution funds,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11K,All,Nonprofit organziations,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11K,All,State and local government,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+11K,All,Total,Nonfederal expenditures by field and source,Consistent,20102010,20242024,1
+12.a,"Salaries, wages, and fringe benefits",,Type of cost,Consistent,20102010,20242024,1
+12.b1,"Software, noncapitalized",,Type of cost,Consistent,20102010,20242024,1
+12.b2,"Software, capitalized",,Type of cost,Consistent,20102010,20242024,1
+12.c,"Equipment, capitalized",,Type of cost,Consistent,20102010,20242024,1
+12.d,R&D passed through to subrecipients,,Type of cost,Consistent,20102010,20242024,1
+12.e,Other direct costs,,Type of cost,Consistent,20102010,20242024,1
+12.f,Indirect costs,,Type of cost,Consistent,20102010,20242024,1
+13,Equipment,,Capitalization thresholds,Consistent,20102010,20242024,1
+13,Software,,Capitalization thresholds,Consistent,20102010,20242024,1
+14A,"Computer and information sciences, all",Federal,Capitalized equipment expenditures by field and source,Consistent,20102010,20242024,1
+14A,"Computer and information sciences, all",Nonfederal,Capitalized equipment expenditures by field and source,Consistent,20102010,20242024,1
+14A,"Computer and information sciences, all",Total,Capitalized equipment expenditures by field and source,Consistent,20102010,20242024,1
+14B01,"Engineering, aerospace, aeronautical, and astronautical",Federal,Capitalized equipment expenditures by field and source,Consistent,20102010,20242024,1
+14B01,"Engineering, aerospace, aeronautical, and astronautical",Nonfederal,Capitalized equipment expenditures by field and source,Consistent,20102010,20242024,1
+14B01,"Engineering, aerospace, aeronautical, and astronautical",Total,Capitalized equipment expenditures by field and source,Consistent,20102010,20242024,1
+14B02,"Engineering, bioengineering and biomedical engineering",Federal,Capitalized equipment expenditures by field and source,Consistent,20102010,20242024,1
+14B02,"Engineering, bioengineering and biomedical engineering",Nonfederal,Capitalized equipment expenditures by field and source,Consistent,20102010,20242024,1
+14B02,"Engineering, bioengineering and biomedical engineering",Total,Capitalized equipment expenditures by field and source,Consistent,20102010,20242024,1
+14B03,"Engineering, chemical",Federal,Capitalized equipment expenditures by field and source,Consistent,20102010,20242024,1
+14B03,"Engineering, chemical",Nonfederal,Capitalized equipment expenditures by field and source,Consistent,20102010,20242024,1
+14B03,"Engineering, chemical",Total,Capitalized equipment expenditures by field and source,Consistent,20102010,20242024,1
+14B04,"Engineering, civil",Federal,Capitalized equipment expenditures by field and source,Consistent,20102010,20242024,1
+14B04,"Engineering, civil",Nonfederal,Capitalized equipment expenditures by field and source,Consistent,20102010,20242024,1
+14B04,"Engineering, civil",Total,Capitalized equipment expenditures by field and source,Consistent,20102010,20242024,1
+14B05,"Engineering, electrical, electronic, and communications",Federal,Capitalized equipment expenditures by field and source,Consistent,20102010,20242024,1
+14B05,"Engineering, electrical, electronic, and communications",Nonfederal,Capitalized equipment expenditures by field and source,Consistent,20102010,20242024,1
+14B05,"Engineering, electrical, electronic, and communications",Total,Capitalized equipment expenditures by field and source,Consistent,20102010,20242024,1
+14B06,"Engineering, industrial and manufacturing",Federal,Capitalized equipment expenditures by field and source,New / Added,20162016,20242024,1
+14B06,"Engineering, industrial and manufacturing",Nonfederal,Capitalized equipment expenditures by field and source,New / Added,20162016,20242024,1
+14B06,"Engineering, industrial and manufacturing",Total,Capitalized equipment expenditures by field and source,New / Added,20162016,20242024,1
+14B07,"Engineering, mechanical",Federal,Capitalized equipment expenditures by field and source,Consistent,20102010,20242024,1
+14B07,"Engineering, mechanical",Nonfederal,Capitalized equipment expenditures by field and source,Consistent,20102010,20242024,1
+14B07,"Engineering, mechanical",Total,Capitalized equipment expenditures by field and source,Consistent,20102010,20242024,1
+14B08,"Engineering, metallurgical and materials",Federal,Capitalized equipment expenditures by field and source,Consistent,20102010,20242024,1
+14B08,"Engineering, metallurgical and materials",Nonfederal,Capitalized equipment expenditures by field and source,Consistent,20102010,20242024,1
+14B08,"Engineering, metallurgical and materials",Total,Capitalized equipment expenditures by field and source,Consistent,20102010,20242024,1
+14B09,"Engineering, other",Federal,Capitalized equipment expenditures by field and source,Consistent,20102010,20242024,1
+14B09,"Engineering, other",Nonfederal,Capitalized equipment expenditures by field and source,Consistent,20102010,20242024,1
+14B09,"Engineering, other",Total,Capitalized equipment expenditures by field and source,Consistent,20102010,20242024,1
+14B10,"Engineering, all",Federal,Capitalized equipment expenditures by field and source,Consistent,20102010,20242024,1
+14B10,"Engineering, all",Nonfederal,Capitalized equipment expenditures by field and source,Consistent,20102010,20242024,1
+14B10,"Engineering, all",Total,Capitalized equipment expenditures by field and source,Consistent,20102010,20242024,1
+14C01,"Geosciences, atmospheric sciences, and ocean sciences, atmospheric science and meteorology",Federal,Capitalized equipment expenditures by field and source,Consistent,20102010,20242024,1
+14C01,"Geosciences, atmospheric sciences, and ocean sciences, atmospheric science and meteorology",Nonfederal,Capitalized equipment expenditures by field and source,Consistent,20102010,20242024,1
+14C01,"Geosciences, atmospheric sciences, and ocean sciences, atmospheric science and meteorology",Total,Capitalized equipment expenditures by field and source,Consistent,20102010,20242024,1
+14C02,"Geosciences, atmospheric sciences, and ocean sciences, geological and earth sciences",Federal,Capitalized equipment expenditures by field and source,Consistent,20102010,20242024,1
+14C02,"Geosciences, atmospheric sciences, and ocean sciences, geological and earth sciences",Nonfederal,Capitalized equipment expenditures by field and source,Consistent,20102010,20242024,1
+14C02,"Geosciences, atmospheric sciences, and ocean sciences, geological and earth sciences",Total,Capitalized equipment expenditures by field and source,Consistent,20102010,20242024,1
+14C03,"Geosciences, atmospheric sciences, and ocean sciences, ocean sciences and marine sciences",Federal,Capitalized equipment expenditures by field and source,Consistent,20102010,20242024,1
+14C03,"Geosciences, atmospheric sciences, and ocean sciences, ocean sciences and marine sciences",Nonfederal,Capitalized equipment expenditures by field and source,Consistent,20102010,20242024,1
+14C03,"Geosciences, atmospheric sciences, and ocean sciences, ocean sciences and marine sciences",Total,Capitalized equipment expenditures by field and source,Consistent,20102010,20242024,1
+14C04,"Geosciences, atmospheric sciences, and ocean sciences, other",Federal,Capitalized equipment expenditures by field and source,Consistent,20102010,20242024,1
+14C04,"Geosciences, atmospheric sciences, and ocean sciences, other",Nonfederal,Capitalized equipment expenditures by field and source,Consistent,20102010,20242024,1
+14C04,"Geosciences, atmospheric sciences, and ocean sciences, other",Total,Capitalized equipment expenditures by field and source,Consistent,20102010,20242024,1
+14C05,"Geosciences, atmospheric sciences, and ocean sciences, all",Federal,Capitalized equipment expenditures by field and source,Consistent,20102010,20242024,1
+14C05,"Geosciences, atmospheric sciences, and ocean sciences, all",Nonfederal,Capitalized equipment expenditures by field and source,Consistent,20102010,20242024,1
+14C05,"Geosciences, atmospheric sciences, and ocean sciences, all",Total,Capitalized equipment expenditures by field and source,Consistent,20102010,20242024,1
+14D01,"Life sciences, agricultural sciences",Federal,Capitalized equipment expenditures by field and source,Consistent,20102010,20242024,1
+14D01,"Life sciences, agricultural sciences",Nonfederal,Capitalized equipment expenditures by field and source,Consistent,20102010,20242024,1
+14D01,"Life sciences, agricultural sciences",Total,Capitalized equipment expenditures by field and source,Consistent,20102010,20242024,1
+14D02,"Life sciences, biological and biomedical sciences",Federal,Capitalized equipment expenditures by field and source,Consistent,20102010,20242024,1
+14D02,"Life sciences, biological and biomedical sciences",Nonfederal,Capitalized equipment expenditures by field and source,Consistent,20102010,20242024,1
+14D02,"Life sciences, biological and biomedical sciences",Total,Capitalized equipment expenditures by field and source,Consistent,20102010,20242024,1
+14D03,"Life sciences, health sciences",Federal,Capitalized equipment expenditures by field and source,Consistent,20102010,20242024,1
+14D03,"Life sciences, health sciences",Nonfederal,Capitalized equipment expenditures by field and source,Consistent,20102010,20242024,1
+14D03,"Life sciences, health sciences",Total,Capitalized equipment expenditures by field and source,Consistent,20102010,20242024,1
+14D04,"Life sciences, natural resources and conservation",Federal,Capitalized equipment expenditures by field and source,New / Added,20162016,20242024,1
+14D04,"Life sciences, natural resources and conservation",Nonfederal,Capitalized equipment expenditures by field and source,New / Added,20162016,20242024,1
+14D04,"Life sciences, natural resources and conservation",Total,Capitalized equipment expenditures by field and source,New / Added,20162016,20242024,1
+14D05,"Life sciences, other",Federal,Capitalized equipment expenditures by field and source,Consistent,20102010,20242024,1
+14D05,"Life sciences, other",Nonfederal,Capitalized equipment expenditures by field and source,Consistent,20102010,20242024,1
+14D05,"Life sciences, other",Total,Capitalized equipment expenditures by field and source,Consistent,20102010,20242024,1
+14D06,"Life sciences, all",Federal,Capitalized equipment expenditures by field and source,Consistent,20102010,20242024,1
+14D06,"Life sciences, all",Nonfederal,Capitalized equipment expenditures by field and source,Consistent,20102010,20242024,1
+14D06,"Life sciences, all",Total,Capitalized equipment expenditures by field and source,Consistent,20102010,20242024,1
+14E,"Mathematics and statistics, all",Federal,Capitalized equipment expenditures by field and source,Consistent,20102010,20242024,1
+14E,"Mathematics and statistics, all",Nonfederal,Capitalized equipment expenditures by field and source,Consistent,20102010,20242024,1
+14E,"Mathematics and statistics, all",Total,Capitalized equipment expenditures by field and source,Consistent,20102010,20242024,1
+14F01,"Physical sciences, astronomy and astrophysics",Federal,Capitalized equipment expenditures by field and source,Consistent,20102010,20242024,1
+14F01,"Physical sciences, astronomy and astrophysics",Nonfederal,Capitalized equipment expenditures by field and source,Consistent,20102010,20242024,1
+14F01,"Physical sciences, astronomy and astrophysics",Total,Capitalized equipment expenditures by field and source,Consistent,20102010,20242024,1
+14F02,"Physical sciences, chemistry",Federal,Capitalized equipment expenditures by field and source,Consistent,20102010,20242024,1
+14F02,"Physical sciences, chemistry",Nonfederal,Capitalized equipment expenditures by field and source,Consistent,20102010,20242024,1
+14F02,"Physical sciences, chemistry",Total,Capitalized equipment expenditures by field and source,Consistent,20102010,20242024,1
+14F03,"Physical sciences, materials science",Federal,Capitalized equipment expenditures by field and source,New / Added,20162016,20242024,1
+14F03,"Physical sciences, materials science",Nonfederal,Capitalized equipment expenditures by field and source,New / Added,20162016,20242024,1
+14F03,"Physical sciences, materials science",Total,Capitalized equipment expenditures by field and source,New / Added,20162016,20242024,1
+14F04,"Physical sciences, physics",Federal,Capitalized equipment expenditures by field and source,Consistent,20102010,20242024,1
+14F04,"Physical sciences, physics",Nonfederal,Capitalized equipment expenditures by field and source,Consistent,20102010,20242024,1
+14F04,"Physical sciences, physics",Total,Capitalized equipment expenditures by field and source,Consistent,20102010,20242024,1
+14F05,"Physical sciences, other",Federal,Capitalized equipment expenditures by field and source,Consistent,20102010,20242024,1
+14F05,"Physical sciences, other",Nonfederal,Capitalized equipment expenditures by field and source,Consistent,20102010,20242024,1
+14F05,"Physical sciences, other",Total,Capitalized equipment expenditures by field and source,Consistent,20102010,20242024,1
+14F06,"Physical sciences, all",Federal,Capitalized equipment expenditures by field and source,Consistent,20102010,20242024,1
+14F06,"Physical sciences, all",Nonfederal,Capitalized equipment expenditures by field and source,Consistent,20102010,20242024,1
+14F06,"Physical sciences, all",Total,Capitalized equipment expenditures by field and source,Consistent,20102010,20242024,1
+14G,"Psychology, all",Federal,Capitalized equipment expenditures by field and source,Consistent,20102010,20242024,1
+14G,"Psychology, all",Nonfederal,Capitalized equipment expenditures by field and source,Consistent,20102010,20242024,1
+14G,"Psychology, all",Total,Capitalized equipment expenditures by field and source,Consistent,20102010,20242024,1
+14H01,"Social sciences, anthropology",Federal,Capitalized equipment expenditures by field and source,New / Added,20162016,20242024,1
+14H01,"Social sciences, anthropology",Nonfederal,Capitalized equipment expenditures by field and source,New / Added,20162016,20242024,1
+14H01,"Social sciences, anthropology",Total,Capitalized equipment expenditures by field and source,New / Added,20162016,20242024,1
+14H02,"Social sciences, economics",Federal,Capitalized equipment expenditures by field and source,Consistent,20102010,20242024,1
+14H02,"Social sciences, economics",Nonfederal,Capitalized equipment expenditures by field and source,Consistent,20102010,20242024,1
+14H02,"Social sciences, economics",Total,Capitalized equipment expenditures by field and source,Consistent,20102010,20242024,1
+14H03,"Social sciences, political science and government",Federal,Capitalized equipment expenditures by field and source,Consistent,20102010,20242024,1
+14H03,"Social sciences, political science and government",Nonfederal,Capitalized equipment expenditures by field and source,Consistent,20102010,20242024,1
+14H03,"Social sciences, political science and government",Total,Capitalized equipment expenditures by field and source,Consistent,20102010,20242024,1
+14H04,"Social sciences, sociology, demography, and population studies",Federal,Capitalized equipment expenditures by field and source,Consistent,20102010,20242024,1
+14H04,"Social sciences, sociology, demography, and population studies",Nonfederal,Capitalized equipment expenditures by field and source,Consistent,20102010,20242024,1
+14H04,"Social sciences, sociology, demography, and population studies",Total,Capitalized equipment expenditures by field and source,Consistent,20102010,20242024,1
+14H05,"Social sciences, other",Federal,Capitalized equipment expenditures by field and source,Consistent,20102010,20242024,1
+14H05,"Social sciences, other",Nonfederal,Capitalized equipment expenditures by field and source,Consistent,20102010,20242024,1
+14H05,"Social sciences, other",Total,Capitalized equipment expenditures by field and source,Consistent,20102010,20242024,1
+14H06,"Social sciences, all",Federal,Capitalized equipment expenditures by field and source,Consistent,20102010,20242024,1
+14H06,"Social sciences, all",Nonfederal,Capitalized equipment expenditures by field and source,Consistent,20102010,20242024,1
+14H06,"Social sciences, all",Total,Capitalized equipment expenditures by field and source,Consistent,20102010,20242024,1
+14I,"Other sciences, all",Federal,Capitalized equipment expenditures by field and source,Consistent,20102010,20242024,1
+14I,"Other sciences, all",Nonfederal,Capitalized equipment expenditures by field and source,Consistent,20102010,20242024,1
+14I,"Other sciences, all",Total,Capitalized equipment expenditures by field and source,Consistent,20102010,20242024,1
+14J01,"Non-S&E, business management and business administration",Federal,Capitalized equipment expenditures by field and source,Consistent,20102010,20242024,1
+14J01,"Non-S&E, business management and business administration",Nonfederal,Capitalized equipment expenditures by field and source,Consistent,20102010,20242024,1
+14J01,"Non-S&E, business management and business administration",Total,Capitalized equipment expenditures by field and source,Consistent,20102010,20242024,1
+14J02,"Non-S&E, communication and communications technologies",Federal,Capitalized equipment expenditures by field and source,Consistent,20102010,20242024,1
+14J02,"Non-S&E, communication and communications technologies",Nonfederal,Capitalized equipment expenditures by field and source,Consistent,20102010,20242024,1
+14J02,"Non-S&E, communication and communications technologies",Total,Capitalized equipment expenditures by field and source,Consistent,20102010,20242024,1
+14J03,"Non-S&E, education",Federal,Capitalized equipment expenditures by field and source,Consistent,20102010,20242024,1
+14J03,"Non-S&E, education",Nonfederal,Capitalized equipment expenditures by field and source,Consistent,20102010,20242024,1
+14J03,"Non-S&E, education",Total,Capitalized equipment expenditures by field and source,Consistent,20102010,20242024,1
+14J04,"Non-S&E, humanities",Federal,Capitalized equipment expenditures by field and source,Consistent,20102010,20242024,1
+14J04,"Non-S&E, humanities",Nonfederal,Capitalized equipment expenditures by field and source,Consistent,20102010,20242024,1
+14J04,"Non-S&E, humanities",Total,Capitalized equipment expenditures by field and source,Consistent,20102010,20242024,1
+14J05,"Non-S&E, law",Federal,Capitalized equipment expenditures by field and source,Consistent,20102010,20242024,1
+14J05,"Non-S&E, law",Nonfederal,Capitalized equipment expenditures by field and source,Consistent,20102010,20242024,1
+14J05,"Non-S&E, law",Total,Capitalized equipment expenditures by field and source,Consistent,20102010,20242024,1
+14J06,"Non-S&E, social work",Federal,Capitalized equipment expenditures by field and source,Consistent,20102010,20242024,1
+14J06,"Non-S&E, social work",Nonfederal,Capitalized equipment expenditures by field and source,Consistent,20102010,20242024,1
+14J06,"Non-S&E, social work",Total,Capitalized equipment expenditures by field and source,Consistent,20102010,20242024,1
+14J07,"Non-S&E, visual and performing arts",Federal,Capitalized equipment expenditures by field and source,Consistent,20102010,20242024,1
+14J07,"Non-S&E, visual and performing arts",Nonfederal,Capitalized equipment expenditures by field and source,Consistent,20102010,20242024,1
+14J07,"Non-S&E, visual and performing arts",Total,Capitalized equipment expenditures by field and source,Consistent,20102010,20242024,1
+14J08,"Non-S&E, other",Federal,Capitalized equipment expenditures by field and source,Consistent,20102010,20242024,1
+14J08,"Non-S&E, other",Nonfederal,Capitalized equipment expenditures by field and source,Consistent,20102010,20242024,1
+14J08,"Non-S&E, other",Total,Capitalized equipment expenditures by field and source,Consistent,20102010,20242024,1
+14J09,"Non-S&E, all",Federal,Capitalized equipment expenditures by field and source,Consistent,20102010,20242024,1
+14J09,"Non-S&E, all",Nonfederal,Capitalized equipment expenditures by field and source,Consistent,20102010,20242024,1
+14J09,"Non-S&E, all",Total,Capitalized equipment expenditures by field and source,Consistent,20102010,20242024,1
+14K,All,Federal,Capitalized equipment expenditures by field and source,Consistent,20102010,20242024,1
+14K,All,Nonfederal,Capitalized equipment expenditures by field and source,Consistent,20102010,20242024,1
+14K,All,Total,Capitalized equipment expenditures by field and source,Consistent,20102010,20242024,1
+15,Total,Researchers,Headcount of personnel,New / Added,20222022,20242024,1
+15,Total,Support Staff,Headcount of personnel,New / Added,20222022,20242024,1
+15,Total,Total,Headcount of personnel,New / Added,20222022,20242024,1
+15,Total,Technicians,Headcount of personnel,New / Added,20222022,20242024,1
+16,Total,Researchers,FTEs,New / Added,20222022,20242024,1
+16,Total,Support Staff,FTEs,New / Added,20222022,20242024,1
+16,Total,Total,FTEs,New / Added,20222022,20242024,1
+16,Total,Technicians,FTEs,New / Added,20222022,20242024,1
+NA_01,Total,,ARRA funds,Removed,20102010,20142014,1
+NA_02,Other personnel,,Personnel,Removed,20102010,20192019,1
+NA_02,Principal investigators,,Personnel,Removed,20102010,20192019,1
+NA_02,Total,,Personnel,Removed,20102010,20192019,1
+NA_03,Total,,Postdocs,Removed,20102010,20152015,1
